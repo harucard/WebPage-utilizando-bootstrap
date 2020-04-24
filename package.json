@@ -1,0 +1,12 @@
+{
+  "name": "Website_page_bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arucard <roquelson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
